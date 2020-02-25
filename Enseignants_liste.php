@@ -18,7 +18,7 @@ try{
 	while ($cours = $req->fetch()){
 ?>
 		<tr>
-			<td><?php echo $cours['idEns']; ?></td>
+			<td><?php echo $cours['idEnseignant']; ?></td>
 			<td><?php echo $cours['nom']; ?></td>
 			<td><?php echo $cours['prenom']; ?></td>
 			<td><?php echo $cours['statut']; ?></td>
