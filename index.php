@@ -4,7 +4,7 @@
 	<h2>Faites votre choix</h2>
 	<ul>
 		<li>
-			<a href="Produits_insertion1.php">Ajouter un cours</a>
+			<a href="Cours_insertion1.php">Ajouter un cours</a>
 		</li>
 		<li>
 			<a href="Produits_modification1.php">Modifier un cours</a>
